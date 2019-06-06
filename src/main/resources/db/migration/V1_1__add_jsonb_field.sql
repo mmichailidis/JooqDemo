@@ -1,1 +1,0 @@
-alter table othertable add simplename jsonb;
